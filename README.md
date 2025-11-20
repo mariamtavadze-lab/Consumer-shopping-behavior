@@ -66,4 +66,4 @@ Import this component into your main App.js.
 
 Note for Testing: To preview the Dashboard, copy the code from customer_prediction_app.jsx into CodeSandbox. You will need to add the Tailwind CSS script to the index.html file for the styling to appear correctly.
 
-https://ymzpcp.csb.app
+Direct access to the website: https://ymzpcp.csb.app
