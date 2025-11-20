@@ -1,4 +1,6 @@
-Customer Shopping Behavior Prediction 🛍️
+![Dashboard Preview](dashboard-preview.png)
+
+Customer Shopping Behavior Prediction
 
 Overview
 
